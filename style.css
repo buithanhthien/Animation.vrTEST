@@ -1,0 +1,13 @@
+#Theme{
+    height: 400px;
+    width: 1000px;
+    position: relative;
+    background: blue;
+}
+#Character{
+    bottom: 20px;
+    left: 200px;
+    height: 75px;
+    width: 50px;
+    position: absolute;
+}
